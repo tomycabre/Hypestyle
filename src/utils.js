@@ -1,5 +1,5 @@
-const allProductsUrl = "/src/javascript-store-products";
-const singleProductUrl = "/src/javascript-store-single-product/";
+const allProductsUrl = "/Hypestyle/src/javascript-store-products";
+const singleProductUrl = "/Hypestyle/src/javascript-store-single-product/";
 
 const getElement = (selection) => {
   const element = document.querySelector(selection);

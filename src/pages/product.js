@@ -24,7 +24,7 @@ let productID;
 // show product when page loads
 window.addEventListener("DOMContentLoaded", async function () {
   const urlID = document.location.search.replace("?", "");
-  const singleProductUrl = "/src/javascript-store-single-product/";
+  const singleProductUrl = "/Hypestyle/src/javascript-store-single-product/";
 
   try {
     const response = await fetch(`${singleProductUrl}${urlID}$`);

@@ -1,19 +1,19 @@
-import { getElement } from '../utils.js';
-import display from '../displayProducts.js';
+import { getElement } from "../utils.js";
+import display from "../displayProducts.js";
 
 const setupCompanies = (store) => {
-  let companies = ['all', ...new Set(store.map((product) => product.company))];
-  const companiesDOM = getElement('.companies');
+  let companies = ["all", ...new Set(store.map((product) => product.company))];
+  const companiesDOM = getElement(".companies");
   companiesDOM.innerHTML = companies
     .map((company) => {
       return ` <button class="company-btn">${company}</button>`;
     })
-    .join('');
-  companiesDOM.addEventListener('click', function (e) {
+    .join("");
+  companiesDOM.addEventListener("click", function (e) {
     const element = e.target;
-    if (element.classList.contains('company-btn')) {
+    if (element.classList.contains("company-btn")) {
       let newStore = [];
-      if (element.textContent === 'all') {
+      if (element.textContent === "all") {
         newStore = [...store];
       } else {
         newStore = store.filter(
@@ -21,7 +21,7 @@ const setupCompanies = (store) => {
         );
       }
 
-      display(newStore, getElement('.products-container'), true);
+      display(newStore, getElement(".products-container"), true);
     }
   });
 };
