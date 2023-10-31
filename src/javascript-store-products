@@ -1,0 +1,393 @@
+[
+  {
+    "id": "rec43w3ipXvP28vog",
+    "fields": {
+      "company": "Joggers",
+      "colors": [
+        "#0087d3"
+      ],
+      "featured": true,
+      "price": 2999,
+      "name": "CYB3R JOGGER",
+      "image": [
+        {
+          "id": "attcvDDMikF6G2iNi",
+          "width": 1000,
+          "height": 639,
+          "url": "https://acdn.mitiendanube.com/stores/951/831/products/joggin-azul-parte-de-adelante1-003981d7f5e09c030416809977334075-1024-1024.webp",
+          "filename": "product-1.jpeg",
+          "size": 62864,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/joggin-azul-parte-de-adelante1-003981d7f5e09c030416809977334075-1024-1024.webp",
+              "width": 56,
+              "height": 36
+            },
+            "large": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/joggin-azul-parte-de-adelante1-003981d7f5e09c030416809977334075-1024-1024.webp",
+              "width": 801,
+              "height": 512
+            },
+            "full": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/joggin-azul-parte-de-adelante1-003981d7f5e09c030416809977334075-1024-1024.webp",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "rec4f2RIftFCb7aHh",
+    "fields": {
+      "company": "Tees",
+      "colors": [
+        "#fff"
+      ],
+      "price": 1499,
+      "name": "hs wings TEE",
+      "image": [
+        {
+          "id": "attP2cUyxU35M1zbw",
+          "width": 1000,
+          "height": 1500,
+          "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels3back11-764f4c214a3a3afcbb16922292087692-1024-1024.webp",
+          "filename": "product-1.jpeg",
+          "size": 119274,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels3back11-764f4c214a3a3afcbb16922292087692-1024-1024.webp",
+              "width": 24,
+              "height": 36
+            },
+            "large": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels3back11-764f4c214a3a3afcbb16922292087692-1024-1024.webp",
+              "width": 512,
+              "height": 768
+            },
+            "full": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels3back11-764f4c214a3a3afcbb16922292087692-1024-1024.webp",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "rec8kkCmSiMkbkiko",
+    "fields": {
+      "company": "Sweaters",
+      "colors": [
+        "#393334"
+      ],
+      "price": 3499,
+      "name": "AVSD SWEATER",
+      "image": [
+        {
+          "id": "attIieysyB9zQmQo9",
+          "width": 1000,
+          "height": 667,
+          "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+          "filename": "product-4.jpeg",
+          "size": 49641,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recNWGyP7kjFhSqw3",
+    "fields": {
+      "company": "Hoodies",
+      "colors": [
+        "#272726"
+      ],
+      "price": 3999,
+      "name": "WASHED HOODIE",
+      "image": [
+        {
+          "id": "att5iyl4TJvd3oepN",
+          "width": 1000,
+          "height": 625,
+          "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+          "filename": "product-1.jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recZEougL5bbY4AEx",
+    "fields": {
+      "company": "Tees",
+      "colors": [
+        "#1a1a1a"
+      ],
+      "price": 1499,
+      "name": "The Death TEE",
+      "image": [
+        {
+          "id": "attDj1C6GxJMsJ1he",
+          "width": 1280,
+          "height": 720,
+          "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtdemons11-609289c3c42cf988d216922277981309-1024-1024.webp",
+          "filename": "product-7.jpg",
+          "size": 162415,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtdemons11-609289c3c42cf988d216922277981309-1024-1024.webp",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtdemons11-609289c3c42cf988d216922277981309-1024-1024.webp",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtdemons11-609289c3c42cf988d216922277981309-1024-1024.webp",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recjMK1jgTb2ld7sv",
+    "fields": {
+      "company": "Hoodies",
+      "colors": [
+        "#039aff"
+      ],
+      "price": 3999,
+      "name": "ANGEL HOODIE",
+      "image": [
+        {
+          "id": "attiwrd7gSI1oGxRK",
+          "width": 1280,
+          "height": 720,
+          "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_angelfront1-583a7089e751c5187c16924543331803-1024-1024.webp",
+          "filename": "product-6.jpg",
+          "size": 178908,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_angelfront1-583a7089e751c5187c16924543331803-1024-1024.webp",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_angelfront1-583a7089e751c5187c16924543331803-1024-1024.webp",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_angelfront1-583a7089e751c5187c16924543331803-1024-1024.webp",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recmg2a1ctaEJNZhu",
+    "fields": {
+      "company": "Tees",
+      "colors": [
+        "#fff"
+      ],
+      "featured": true,
+      "price": 1499,
+      "name": "Angel TEE",
+      "image": [
+        {
+          "id": "attqutUt355traBeS",
+          "width": 1280,
+          "height": 846,
+          "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+          "filename": "product-3.jpg",
+          "size": 196312,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+              "width": 775,
+              "height": 512
+            },
+            "full": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recvKMNR3YFw0bEt3",
+    "fields": {
+      "company": "Hoodies",
+      "colors": [],
+      "featured": true,
+      "price": 3999,
+      "name": "HELL SHELL HOODIE",
+      "image": [
+        {
+          "id": "atttOzyYI8P1XfJu8",
+          "width": 1280,
+          "height": 924,
+          "url": "https://acdn.mitiendanube.com/stores/951/831/products/azul1-86e21c3b16f3588f3116809968531296-1024-1024.webp",
+          "filename": "product-2.jpg",
+          "size": 195175,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/azul1-86e21c3b16f3588f3116809968531296-1024-1024.webp",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/azul1-86e21c3b16f3588f3116809968531296-1024-1024.webp",
+              "width": 709,
+              "height": 512
+            },
+            "full": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/azul1-86e21c3b16f3588f3116809968531296-1024-1024.webp",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recxaXFy5IW539sgM",
+    "fields": {
+      "company": "Joggers",
+      "colors": [
+        "#1a1a1a"
+      ],
+      "price": 2999,
+      "name": "MILEAGE JOGGERS",
+      "image": [
+        {
+          "id": "attjWNxk7KKzcLPDx",
+          "width": 1000,
+          "height": 652,
+          "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+          "filename": "product-1.jpeg",
+          "size": 61946,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+              "width": 785,
+              "height": 512
+            },
+            "full": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "recyqtRglGNGtO4Q5",
+    "fields": {
+      "company": "Hoodies",
+      "colors": [
+        "#222"
+      ],
+      "price": 3999,
+      "name": "SIXDO HOODIE",
+      "image": [
+        {
+          "id": "attnZHyyOUTBzJ1ZD",
+          "width": 1280,
+          "height": 960,
+          "url": "https://acdn.mitiendanube.com/stores/951/831/products/verde-11-b973a82507b19ff08316809962093362-1024-1024.webp",
+          "filename": "product-5.jpg",
+          "size": 189559,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/verde-11-b973a82507b19ff08316809962093362-1024-1024.webp",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/verde-11-b973a82507b19ff08316809962093362-1024-1024.webp",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "https://acdn.mitiendanube.com/stores/951/831/products/verde-11-b973a82507b19ff08316809962093362-1024-1024.webp",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  }
+]

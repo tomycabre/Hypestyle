@@ -1,0 +1,41 @@
+{
+  "id": "rec4f2RIftFCb7aHh",
+  "fields": {
+    "company": "Tees",
+    "colors": [
+      "#fff"
+    ],
+    "featured": true,
+    "price": 1499,
+    "name": "hs wings TEE",
+    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "image": [
+      {
+        "id": "attcvDDMikF6G2iNi",
+        "width": 1000,
+        "height": 639,
+        "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels3back11-764f4c214a3a3afcbb16922292087692-1024-1024.webp",
+        "filename": "product-1.jpeg",
+        "size": 62864,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels3back11-764f4c214a3a3afcbb16922292087692-1024-1024.webp",
+            "width": 56,
+            "height": 36
+          },
+          "large": {
+            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels3back11-764f4c214a3a3afcbb16922292087692-1024-1024.webp",
+            "width": 801,
+            "height": 512
+          },
+          "full": {
+            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels3back11-764f4c214a3a3afcbb16922292087692-1024-1024.webp",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  }
+}
